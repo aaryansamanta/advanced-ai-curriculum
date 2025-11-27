@@ -1,6 +1,6 @@
 # Aaryan Samanta – AI & Data Science Portfolio
 
-Welcome to my portfolio showcasing work from the following courses at **Legend College Preparatory**:
+Welcome to my portfolio showcasing work from the following courses at Legend College Preparatory
 
 - 🧠 AI & Technology
 - 📊 Data Science
@@ -8,15 +8,6 @@ Welcome to my portfolio showcasing work from the following courses at **Legend C
 
 This repository demonstrates my learning in **Python programming, data analysis, visualization, supervised learning, NLP, and neural networks**.
 
----
-
-### 📜 Academic Disclaimer
-Developed as part of the AI & Technology, Data Science, and AI Internship courses at Legend College Preparatory.
-
-> Please note that it is a violation of school policy to copy and use this code without proper attribution and credit acknowledgement.  
-> Failing to do so can constitute plagiarism, even with small code snippets.
-
----
 
 ### 🧩 Repository Organization
 Each course folder contains:
