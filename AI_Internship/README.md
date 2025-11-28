@@ -1,3 +1,3 @@
 # AI Internship
 
-Assignments developed by Aaryan Samanta.
+AI Internship developed by Aaryan Samanta.
