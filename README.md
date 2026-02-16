@@ -42,15 +42,11 @@ This capstone emphasizes the full data science lifecycle, including:
 - Deriving **actionable insights** from real-world health-related data  
 
 ## 🔒 Privacy & Usage Notice
-
 This repository contains **original capstone and research work** that is:
 
 - **Unpublished**  
 - **Not intended for public distribution**  
 - **Protected to prevent unauthorized reuse or copying**  
-
-## 📌 Relationship to Public Portfolio
-Public assignments, exercises, and instructional coursework are available in the separate repository:
 
 ### 🧩 Repository Organization
 Each course folder contains:
