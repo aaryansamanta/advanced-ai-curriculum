@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=220&section=header&text=Advanced%20AI%20Curriculum&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aaryan%20Samanta%20%E2%80%94%20Capstones%2C%20Coursework%20%26%20Applied%20AI%20Projects&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=200&section=header&text=Advanced%20AI%20Curriculum&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+
+<p><b>Aaryan Samanta</b> — Capstones, Coursework &amp; Applied AI Projects</p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=8E2DE2&center=true&vCenter=true&width=780&lines=Machine+Learning+%7C+Deep+Learning+%7C+NLP;Data+Science+%26+Statistical+Analysis;Medical+AI+%2B+Computer+Vision+Capstones;Python+%C2%B7+scikit-learn+%C2%B7+TensorFlow%2FKeras" alt="Typing SVG" />
 
